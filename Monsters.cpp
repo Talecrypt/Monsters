@@ -1,7 +1,7 @@
 // File: Monsters.cpp
 // Author: Saif Abu Hananah
 // Date: 22/May/2025
-// Program 3: Monstertale - A Monster-Taming Game
+// Monstertale - A Monster-Taming Game
 
 #include "Monsters.h"
 
