@@ -1,8 +1,8 @@
 // File: Monsters.h
 // Author: Saif Abu Hananah
 // Date: 22/May/2025
-// Program 3: Monstertale - A Monster-Taming Game
-// Class: CS302
+// Monstertale - A Monster-Taming Game
+
 #ifndef MONSTERS_H
 #define MONSTERS_H
 
